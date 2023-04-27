@@ -6,7 +6,9 @@ public class Hi {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Titili");
 		System.out.println(80-20);
-		System.out.println("Hello world");
+
+		System.out.println("checking my code in jenkins");
+		
 	}
 
 }
